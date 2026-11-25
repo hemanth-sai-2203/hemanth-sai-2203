@@ -20,7 +20,7 @@
   <a href="mailto:hemanthsai2203@gmail.com?subject=%5BResume%20Request%5D%20AI%2FML%20Opportunities&body=Hi%20Hemanth%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20request%20your%20latest%20resume%20regarding%20opportunities%20at%20%5BCompany%20Name%5D.%0A%0AThanks%2C%0A%5BYour%20Name%2FDesignation%5D">
     <img src="https://img.shields.io/badge/Resume-Email_Request-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Resume via Email" />
   </a>
-  <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Ln6I_0uUd6qtZHMBzFK6ybDvjxyZ6p5c/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Drive_(Request_Access)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume via Google Drive" />
   </a>
 </p>
