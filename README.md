@@ -42,17 +42,34 @@
 
 ### 💡 Engineering Philosophy & Vision
 
-> *"Most AI prototypes live and die inside Jupyter Notebooks. I build intelligence systems engineered for the real world—where data is noisy, latency is strictly budgeted, and failure modes have real consequences."*
+> *"Most AI prototypes live and die inside Jupyter Notebooks. I build systems engineered for the messy real world—where data is noisy, latency is strictly budgeted, and failure modes have real consequences."*
 
-I am an **AI & Data Science undergraduate at IIIT Sri City** and an **Amazon ML Summer School 2026 Selectee**, driven by the frontier of **Agentic AI, production-grade RAG pipelines, and deterministic data architectures**. 
+I am an **AI & Data Science undergraduate at IIIT Sri City**, an **Amazon ML Summer School 2026 Selectee**, and a **State-Level Hackathon Champion**. My work bridges the gap between **theoretical deep learning research** and **high-throughput production engineering**.
 
-While many approach Machine Learning by wrapping APIs or training uncalibrated models, I focus on engineering discipline:
+Whether training hybrid Reinforcement Learning policies for GPS-denied robotics or deploying multi-tenant RAG systems indexing tens of thousands of documents, I treat every project with mathematical rigor, empirical baselines, and production discipline.
 
-- 🧱 **Deterministic Engineering Before Probabilistic Magic:** High-performance AI starts with rock-solid data engineering. I architect leak-free evaluation pipelines, robust SQL layers, and hybrid dense/sparse retrieval systems (BM25 + BGE) to ensure language models remain grounded in verified facts.
-- ⚡ **Multi-Step Agentic Autonomy:** I design goal-driven agent architectures and intent-aware query routers that marry statistical ML (Ridge Regression, Extended Kalman Filters, Reinforcement Learning) with LLMs to solve multifaceted real-world challenges.
-- 🚀 **Built to Deploy, Not Just to Demo:** Every system I design is treated as production software—containerized with Docker, deployed behind resilient FastAPI backends, backed by vector databases (Weaviate), and benchmarked on strict holdout splits.
+---
 
-Whether optimizing national grid load forecasting down to a **1.46% MAPE**, parsing **60,000+ public finance chunks** under dual-language constraints, or engineering **GPS-denied localization** using hybrid RL/EKF filters, my goal is consistent: **turn complex mathematical formulations into scalable, reliable, production-grade systems.**
+### 🧭 Core Focus Tracks & Research Dimensions
+
+#### 🧠 1. Agentic AI & Production RAG Systems
+- **What I build:** Intent-aware routing, hybrid dense/sparse retrieval (BGE + BM25), cross-encoder reranking, and deterministic SQL fallback layers.
+- **Proof of Work:** Engineered the *AP Government Public Finance Platform*—parsing 590 publications, indexing 60K+ chunks in Weaviate Cloud, and deploying on Render with sub-second retrieval latency.
+
+#### 🔬 2. Applied Deep Learning & Foundation Research
+- **What I explore:** Generative Computer Vision, Hyperspectral Image Super-Resolution (HSI-SR), Diffusion architectures, and Low-Resource Indic NLP.
+- **Proof of Work:** Curated a 320K+ sentence Telugu corpus from scratch and trained custom Seq2Seq BiLSTM spell-correction models (82.6% validation accuracy).
+
+#### 🤖 3. Autonomous Systems & Statistical Modeling
+- **What I tackle:** Sensor fusion, state estimation, Extended Kalman Filters (EKF), and leak-free time-series forecasting.
+- **Proof of Work:** Built a hybrid RL-EKF framework in Webots/CARLA reducing GPS-denied position drift from 89.6m down to **1.88m**, and forecasted national electricity demand at **1.46% MAPE** across 32,000+ state-day records.
+
+---
+
+### ⚡ Behind the Code: Who I Am
+- 🏆 **High-Velocity Builder:** Won 1st Place at the Bit N Build Hackathon and qualified as a National Finalist—I thrive in high-stakes environments where an idea must become a working, deployed product in 48 hours.
+- 📖 **Research-Driven:** I love dissecting arXiv papers, translating mathematical formulations into modular PyTorch code, and testing real assumptions against naive baselines.
+- 🧩 **Algorithmic Foundation:** Dedicated to clean problem-solving and competitive programming, continuously honing data structures and algorithmic efficiency on [Codolio](https://codolio.com/profile/hemanth_2203).
 
 - 🎯 **Target Roles:** Machine Learning Engineer | AI / GenAI Engineer | Data Scientist | Full-Stack AI Developer
 - 📍 **Location:** India (Open to on-site, hybrid, and remote opportunities worldwide)
@@ -96,6 +113,8 @@ Whether optimizing national grid load forecasting down to a **1.46% MAPE**, pars
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision_(HSI--SR)-0284C7?style=for-the-badge&logo=opencv&logoColor=white)
+![Diffusion](https://img.shields.io/badge/Diffusion_Models-EA580C?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-059669?style=for-the-badge)
 ![Time-Series](https://img.shields.io/badge/Time--Series_Forecasting-4338CA?style=for-the-badge)
 
