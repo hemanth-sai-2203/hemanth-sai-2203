@@ -18,7 +18,10 @@
     <img src="https://img.shields.io/badge/Codolio-Problem_Solving-FF6800?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
   </a>
   <a href="mailto:hemanthsai2203@gmail.com?subject=%5BResume%20Request%5D%20AI%2FML%20Opportunities&body=Hi%20Hemanth%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20request%20your%20latest%20resume%20regarding%20opportunities%20at%20%5BCompany%20Name%5D.%0A%0AThanks%2C%0A%5BYour%20Name%2FDesignation%5D">
-    <img src="https://img.shields.io/badge/Resume-Request_Access-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Request Resume" />
+    <img src="https://img.shields.io/badge/Resume-Email_Request-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Resume via Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Drive_(Request_Access)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume via Google Drive" />
   </a>
 </p>
 
@@ -37,14 +40,23 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 💡 Engineering Philosophy & Vision
 
-> **AI & Data Science undergraduate at IIIT Sri City (CGPA: 8.24/10.0)** and **Amazon ML Summer School 2026 Selectee**.  
-> I specialize in **Agentic AI, production-grade RAG architectures, and statistical machine learning systems**. My focus is bridging deterministic data engineering with deep learning and multi-step LLM orchestration—prioritizing reproducible baselines, leak-free evaluation protocols, and containerized deployments over notebook-only prototypes.
+> *"Most AI prototypes live and die inside Jupyter Notebooks. I build intelligence systems engineered for the real world—where data is noisy, latency is strictly budgeted, and failure modes have real consequences."*
 
-- 🎯 **Target Roles:** Machine Learning Engineer | AI Engineer | Data Scientist | Full-Stack AI Developer
-- 📍 **Location:** India (Open to on-site, hybrid, and remote roles)
-- 📬 **Get in Touch:** [hemanthsai2203@gmail.com](mailto:hemanthsai2203@gmail.com) | [+91 8919452145](tel:+918919452145)
+I am an **AI & Data Science undergraduate at IIIT Sri City** and an **Amazon ML Summer School 2026 Selectee**, driven by the frontier of **Agentic AI, production-grade RAG pipelines, and deterministic data architectures**. 
+
+While many approach Machine Learning by wrapping APIs or training uncalibrated models, I focus on engineering discipline:
+
+- 🧱 **Deterministic Engineering Before Probabilistic Magic:** High-performance AI starts with rock-solid data engineering. I architect leak-free evaluation pipelines, robust SQL layers, and hybrid dense/sparse retrieval systems (BM25 + BGE) to ensure language models remain grounded in verified facts.
+- ⚡ **Multi-Step Agentic Autonomy:** I design goal-driven agent architectures and intent-aware query routers that marry statistical ML (Ridge Regression, Extended Kalman Filters, Reinforcement Learning) with LLMs to solve multifaceted real-world challenges.
+- 🚀 **Built to Deploy, Not Just to Demo:** Every system I design is treated as production software—containerized with Docker, deployed behind resilient FastAPI backends, backed by vector databases (Weaviate), and benchmarked on strict holdout splits.
+
+Whether optimizing national grid load forecasting down to a **1.46% MAPE**, parsing **60,000+ public finance chunks** under dual-language constraints, or engineering **GPS-denied localization** using hybrid RL/EKF filters, my goal is consistent: **turn complex mathematical formulations into scalable, reliable, production-grade systems.**
+
+- 🎯 **Target Roles:** Machine Learning Engineer | AI / GenAI Engineer | Data Scientist | Full-Stack AI Developer
+- 📍 **Location:** India (Open to on-site, hybrid, and remote opportunities worldwide)
+- 📬 **Reach Me Directly:** [hemanthsai2203@gmail.com](mailto:hemanthsai2203@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hemanth-sai-machireddy) | [Portfolio](https://e-portfolio-website-five.vercel.app/)
 
 ---
 
